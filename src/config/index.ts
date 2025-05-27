@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/Jonas-Beck" },
     { text: "OpenProfile", href: "https://openprofile.dev/jonasbeck" },
   ],
-  socialImage: "/zen-og.png", // TODO: create image
+  socialImage: "/zen-og-image.jpeg",
   canonicalURL: "https://jonasbeck.dk",
 };
 
@@ -36,8 +36,8 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Jan 2025",
       endDate: "Current",
       summary: [
-        "I maintained and improved our internal CLI Bura used by developers to easily create HelmReleases for their services and release to our Kubernetes clusters using GitOps repositories.",
-        "I created an internal golden path Helm chart called helms-deep that contained all our best practices and made it easier for our developers to release services to our Kubernetes clusters.",
+        "I maintain and improve our internal CLI Bura used by developers to easily create HelmReleases for their services and release to our Kubernetes clusters using GitOps repositories.",
+        "I create and develop internal golden path Helm chart called helms-deep that contain all our best practices and made it easier for our developers to release services to our Kubernetes clusters.",
       ],
     },
     {
